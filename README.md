@@ -97,6 +97,10 @@ for (int element : collection) {
 }
 Questo esempio stamperebbe tutti gli elementi della collezione uno alla volta.
 
+<br>
+
+https://github.com/Parmalatte/Programmazione-II.git
+
 
 
 
