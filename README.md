@@ -30,5 +30,8 @@ Eccezioni:
 - IllegalArgumentException
 - OutOfBoundException
 
+<br>
+Link Tino: https://github.com/MartinWWDC/LaboratorioProgII/blob/cf498dee73b6b9854e4169dfec318d1bee06b3b1/Esercizi/testi-SecondoSemestre/Simulazioni/Patagon/README.md
+
 
 
