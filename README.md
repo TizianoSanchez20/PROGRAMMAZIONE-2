@@ -21,6 +21,7 @@ Strutture d'uso per gli esami:
 link che spiega in maniera egregia la differenza
 https://www.claudiodesio.com/tipi-record/
 
+<br>
 
 <br>
 Progettazione programma java:
