@@ -16,7 +16,10 @@ Strutture d'uso per gli esami:
 - Mappe 
 - ArrayList
 - LinkedList
+- record
 
+link che spiega in maniera egregia la differenza
+https://www.claudiodesio.com/tipi-record/
 <br>
 Progettazione programma java:
 - Interfaccia (presenta solo metodi vuoti)
